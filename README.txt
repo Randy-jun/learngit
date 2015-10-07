@@ -3,3 +3,4 @@ Git is free software.
 Git is good.
 This is another.
 A new test.
+Git tracks changes.
