@@ -5,4 +5,4 @@ This is another.
 A new test.
 Git tracks changes.
 Git hah tracks changes.
-Creatin a new branch is quick.
+Creatin a new branch is quick & simple.
