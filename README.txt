@@ -9,3 +9,4 @@ Git tracks changes.
 Git hah tracks changes.
 Creatin a new branch is quick and simple.
 test
+test config
